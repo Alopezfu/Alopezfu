@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!! Bash Colors https://gist.github.com/Alopezfu/fa21e30387138261cdb453d36360f306 !! 
+Bash Colors: https://gist.github.com/Alopezfu/fa21e30387138261cdb453d36360f306 😁 
 
 <!--
 **Alopezfu/Alopezfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
