@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Alejandro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<!--<h1 align="center">Hola 👋, Soy Alejandro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Apasionado por la programación y la tecnologia</h3>
 
 - 🔭 I’m currently working on my **Python Course**
@@ -53,3 +53,5 @@
 
 [BrantLauro](https://github.com/Alopezfu)
 Bash Colors: https://gist.github.com/Alopezfu/fa21e30387138261cdb453d36360f306 😁 
+
+-->
