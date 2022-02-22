@@ -1,6 +1,6 @@
-<!--<h1 align="center">Hola 👋, Soy Alejandro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hola 👋, Soy Alejandro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Apasionado por la programación y la tecnologia</h3>
-
+<!--
 - 🔭 I’m currently working on my **Python Course**
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
